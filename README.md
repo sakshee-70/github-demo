@@ -1,4 +1,4 @@
 # github-demo
 This is my first Github Repository.
 <br>
-Author - Sakshee Chavhaan
+Author - Sakshee R Chavhaan
